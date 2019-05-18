@@ -5,3 +5,5 @@ Git is free software udwer the gpl.
 88888
 999999
 Creating a new branch is quick.
+66666
+Creating a new branch is quick AND simple.
